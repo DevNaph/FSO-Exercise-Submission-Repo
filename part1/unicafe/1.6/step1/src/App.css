@@ -1,0 +1,7 @@
+.btn-section {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    color: skyblue;
+}
+
